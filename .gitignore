@@ -1,0 +1,46 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+
+# Build outputs
+/backend/build/
+/frontend/build/
+/dist/
+/tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Test coverage
+/coverage/
+
+# Misc
+.nyc_output/
+.sass-cache/
+/.pnp/
+/.pnp.js
+
+# Mac
+.Spotlight-V100
+.Trashes
+
+# Windows
+ehthumbs.db
+Desktop.ini
